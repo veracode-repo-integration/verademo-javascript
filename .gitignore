@@ -1,6 +1,9 @@
 node_modules/
 resources/*
 .vscode/*
+.idea
+/verascan
+.phylum_project
 
 # veracode cli-created package
 verademo-javascript.zip
